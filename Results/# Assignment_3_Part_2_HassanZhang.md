@@ -2,7 +2,7 @@
 
 ## 1. Determine if the survival rate is associated with the class of passenger
 
-1)  Block bar chart of 'survival by class'. Survival patterns in each class are different.![](images/survival_by_class.png)
+1)  Block bar chart of 'survival by class'. Survival patterns in each class are different.![survival_by_class](survival_by_class.png)
 2)  Null Hypothesis (H0): There is no association between the class of passengers and the survival rate. In other words, the class of passengers and survival rate are independent. Alternative Hypothesis (H1): There is an association between the class of passengers and the survival rate. The two variables are dependent.
 3)  significance level (α) = 0.05 (5%)
 4)  p-value = 4.55e-23
@@ -11,7 +11,7 @@
 
 ## 2. Determine if the survival rate is associated to the gender
 
-1)  Block bar chart of 'survival by gender'. Survival patterns in each gender are different.![](images/survival_by_sex.png)
+1)  Block bar chart of 'survival by gender'. Survival patterns in each gender are different.![survival_by_sex](survival_by_sex.png)
 
 2)  Null Hypothesis (H0): There is no association between the sex of passengers and the survival rate. In other words, the sex of passengers and survival rate are independent. Alternative Hypothesis (H1): There is an association between the sex of passengers and the survival rate. The two variables are dependent.
 
@@ -25,7 +25,7 @@
 
 ## 3. Determine the survival rate is associated to the age
 
-1)  Block bar chart of 'survival by age group. Survival patterns in each gender are different.![](images/survival_by_age.png)
+1)  Block bar chart of 'survival by age group. Survival patterns in each gender are different.![survival_by_age](survival_by_age.png)
 
 2)  Null Hypothesis (H0): There is no association between the age of passengers and the survival rate. In other words, the age of passengers and survival rate are independent. Alternative Hypothesis (H1): There is an association between the age of passengers and the survival rate. The two variables are dependent.
 
